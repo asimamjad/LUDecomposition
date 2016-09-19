@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1461097971 source:c:\cs417\assignment2\project2\main.cpp
+	<iostream>
+	<chrono>
+	<iomanip>
+	<vector>
+	<math.h>
+	<random>
+	<ctime>
+
+1456524356 c:\cs417\assignment2\project2\lu.h
+	<vector>
+	<chrono>
+	<random>
+	<ctime>
+	<iostream>
+	<iomanip>
+	<functional>
+	<algorithm>
+
