@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1461098621 source:c:\cs417\assignment3\gauess sedeial method\gsad\main.cpp
+	<iostream>
+	<chrono>
+	<iomanip>
+	<vector>
+	<math.h>
+	<random>
+	<ctime>
+
